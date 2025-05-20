@@ -1,0 +1,13 @@
+body {background-color: #01040a; font-family: sans-serif; margin: 40px; text-align: center; }
+h1 {color: #20252d;}
+label{color:#f7f7f7;}
+.status { font-size: 1em; padding: 20px; border-radius:4px; margin: 20px auto; width: 50%; }
+.verde { background-color: #4CAF50; color: white; }
+.amarillo { background-color: #FFC107; color: black; }
+.rojo { background-color: #F44336; color: white; }
+.select {width: 300px; background: #0d1117;}
+select, button {cursor: pointer; font-family: monospace; padding: 10px 15px; font-size: 1em; margin: 10px; border: none; background: #238737; color: #f7f7f7; border-radius: 3px; }
+.info-box { width: 60%; margin: 0 auto; text-align: left; padding: 10px;}
+.info-box p {color: #3c434d; font-size: 0.8em; }
+#result { background-color:#0d1117; padding: 2rem;width:700px; max-width: 700px; box-shadow: 1px 1px 5px; border: 1px solid #3c434d;}
+.box-content{display:flex; justify-content: center;}
